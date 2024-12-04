@@ -1,0 +1,24 @@
+The Lord of the Rings,J.R.R. Tolkien,1954,0
+Pride and Prejudice,Jane Austen,1813,0
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,1003
+The Great Gatsby,F. Scott Fitzgerald,1925,1004
+To Kill a Mockingbird,Harper Lee,1960,0
+One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,1006
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,1002
+The Book Thief,Markus Zusak,2005,0
+The Hunger Games,Suzanne Collins,2008,1009
+The Catcher in the Rye,J.D. Salinger,1951,0
+And Then There Were None,Agatha Christie,1939,1011
+The Da Vinci Code,Dan Brown,2003,0
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,0
+The Perks of Being a Wallflower,Stephen Chbosky,1999,0
+The Lord of the Flies,William Golding,1954,1015
+Animal Farm,George Orwell,1945,1020
+Brave New World,Aldous Huxley,1932,0
+The Time Traveler's Wife,Audrey Niffenegger,2003,0
+The Help,Kathryn Stockett,2009,0
+The Road,Cormac McCarthy,2006,0
+The Secret History,Donna Tartt,1992,0
+The Picture of Dorian Gray,Oscar Wilde,1890,0
+1Q84,Haruki Murakami,2009,1008
+1984,George Orwell,1949,0
